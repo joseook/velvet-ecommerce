@@ -64,7 +64,7 @@ Follow these steps to set up the project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/velvet.git
+git clone https://github.com/joseook/velvet.git
 
 # Navigate to the project directory
 cd velvet
